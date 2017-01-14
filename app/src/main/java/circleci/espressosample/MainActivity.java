@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
         changeTextButton.setOnClickListener(new Button.OnClickListener() {
             public void onClick(View v) {
-                textView.setText("Text changed!");
+                textView.setText("Text changed!!");
             }
         });
     }
